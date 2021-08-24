@@ -1,4 +1,4 @@
-I'm a Fall 2020 Computer Science graduate currently exploring Graph Theory and learning Go, while contributing to the graph package of [Gonum](https://github.com/gonum/gonum). 
+I'm a Fall 2020 Computer Science graduate looking for my next role.
 
 My favorite programming languages in no particular order are: C/C++, Python, JavaScript and Go.
 
