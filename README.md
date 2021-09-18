@@ -1,4 +1,4 @@
-I'm a Fall 2020 Computer Science graduate looking for my next role.
+I'm a Fall 2020 Computer Science graduate looking for my next role as a developer.
 
 My favorite programming languages in no particular order are: C/C++, Python, JavaScript and Go.
 
