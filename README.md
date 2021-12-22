@@ -6,7 +6,7 @@ You can contact me at matthew.b.connelly at gmail.
   
  ### Links
  
-[Website](http://mattconndev.com/)  
+[Website](https://mattconn.github.io/)  
 [Twitter](https://twitter.com/mattconndev)  
 [LinkedIn](https://www.linkedin.com/in/mattconndev/)  
 [Resume](https://docs.google.com/document/d/1xpLTFJak9plpU-bo0I6GRmdDIijkfauvG1_zgg2dopc)
