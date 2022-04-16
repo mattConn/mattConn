@@ -1,4 +1,4 @@
-I'm a Fall 2020 Computer Science graduate looking for my next role.
+Hello! I’m a creative developer with a background in Computer Science, currently a UX Engineer at Harbour.
 
 My favorite programming languages in no particular order are: C/C++, Python, JavaScript and Go.
 
